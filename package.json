@@ -1,0 +1,24 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "Azhar Faturohman A",
+	"description": "A project that does something awesome",
+	"license": "MIT",
+	"version": "1.2.0",
+	"keywords": [
+		"descriptive",
+		"related",
+		"words",
+		"freecodecamp"
+	],
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://boiler.azharf99.repl.co"
+	}
+}
